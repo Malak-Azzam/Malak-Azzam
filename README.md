@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about web pages**
 
-- 👨‍💻 All of my projects are available at [My Repository.](My Repository.)
+- 👨‍💻 All of my projects are available at My Repository.
 
 - 📫 How to reach me **azzammalak353@gmail.com**
 

@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Malak🧚🏻</h1>
+<h1 align="center">Hi 👋, I'm <br> Malak🧚🏻</h1>
+
 <h3 align="center">Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malak-azzam&label=Profile%20views&color=0e75b6&style=flat" alt="malak-azzam" /> </p>
